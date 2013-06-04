@@ -11,13 +11,22 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20130604034835) do
+ActiveRecord::Schema.define(version: 20130604045247) do
 
   create_table "articles", force: true do |t|
     t.string   "title"
     t.string   "name",       default: "名無し"
     t.string   "email"
     t.text     "content"
+    t.datetime "created_at"
+    t.datetime "updated_at"
+  end
+
+  create_table "responses", force: true do |t|
+    t.string   "name",       default: "名無し"
+    t.string   "email"
+    t.text     "content"
+    t.integer  "article_id"
     t.datetime "created_at"
     t.datetime "updated_at"
   end

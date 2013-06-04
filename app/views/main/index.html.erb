@@ -1,16 +1,81 @@
-<p id="notice"><%= notice %></p>
+<p id="notice"><%= notice%></p>
 
-<%= link_to 'New Article', new_article_path %>
+<%=link_to 'New Article', new_article_path %>
+<br>
+<%@articles.each do |article|%>
+<%=link_to article.title,"#article_" + article.id.to_s%>
+<%end%>
+<hr>
 
 <%@articles.each do |article|%>
+<div id = "article_<%=article.id%>">
 <h2><%=article.id%>
 	<%=article.title%>
 </h2>
-<p><%=article.name%>
+<p>1
+   <%=article.name%>
    <%=article.email%>
    <%=article.updated_at.strftime("%Y/%m/%d %H:%M:%S")%>
 </p>
 <p>
    <%=simple_format article.content%>
 </p>
+
+
+
+<%count = 2%>
+<% article.responses.each do |response|%>  
+<p><%= count%>
+   <%=response.name%>
+   <%=response.email%>
+   <%=response.updated_at.strftime("%Y/%m/%d %H:%M:%S")%>
+</p>
+<p>
+   <%=simple_format response.content%>
+</p>
+<%count = count + 1%>
 <%end%>
+
+<%= form_for(@response) do |f| %>
+  <% if @response.errors.any? %>
+    <div id="error_explanation">
+      <h2><%= pluralize(@response.errors.count, "error") %> prohibited this response from being saved:</h2>
+
+      <ul>
+      <% @response.errors.full_messages.each do |msg| %>
+        <li><%= msg %></li>
+      <% end %>
+      </ul>
+    </div>
+  <% end %>
+
+  <div class="field">
+    <%= f.label :name %><br>
+    <%= f.text_field :name %>
+  </div>
+  <div class="field">
+    <%= f.label :email %><br>
+    <%= f.text_field :email %>
+  </div>
+  <div class="field">
+    <%= f.label :content %><br>
+    <%= f.text_area :content %>
+  </div>
+  <div class="field">
+    <%= f.hidden_field :article_id, :value => article.id%>
+  </div>
+  <div class="actions">
+    <%= f.submit %>
+  </div>
+<% end %>
+<%=link_to "Top","#"%>
+</div>
+<%end%>
+
+
+
+
+
+
+
+
