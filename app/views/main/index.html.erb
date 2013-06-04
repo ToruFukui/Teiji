@@ -1,0 +1,16 @@
+<p id="notice"><%= notice %></p>
+
+<%= link_to 'New Article', new_article_path %>
+
+<%@articles.each do |article|%>
+<h2><%=article.id%>
+	<%=article.title%>
+</h2>
+<p><%=article.name%>
+   <%=article.email%>
+   <%=article.updated_at.strftime("%Y/%m/%d %H:%M:%S")%>
+</p>
+<p>
+   <%=simple_format article.content%>
+</p>
+<%end%>
