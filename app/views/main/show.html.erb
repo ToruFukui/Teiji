@@ -1,17 +1,9 @@
-<p id="notice"><%= notice%></p>
 
-<%=link_to '記事を作成', new_article_path %>
-<br>
-<%@articles.each do |article|%>
-<%=link_to article.title,"#article_" + article.id.to_s%>
-<%end%>
-<hr>
-
-<%@articles.each do |article|%>
+<%@article.each do |article|%>
 <div id = "article_<%=article.id%>">
 
 <h2><%=article.id%>
-	  <%=link_to article.title,main_show_path %>
+	  <%=link_to article.title%>
 </h2>
 <p>1
    <%=article.name%>

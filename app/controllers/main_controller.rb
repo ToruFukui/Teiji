@@ -6,6 +6,11 @@ class MainController < ApplicationController
   	
   	@response.name = session[:name] if session[:name]
     @response.email = session[:email] if session[:email]
-
   end
+
+  def show
+  	@article = Article.find(params[:id])
+  end
+  
+
 end

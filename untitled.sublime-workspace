@@ -1,0 +1,780 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"no",
+				"notice"
+			],
+			[
+				"update",
+				"updated_at"
+			],
+			[
+				"se",
+				"session"
+			],
+			[
+				"re",
+				"response"
+			],
+			[
+				"arti",
+				"article_id"
+			],
+			[
+				"co",
+				"count"
+			],
+			[
+				"t",
+				"twiceDo"
+			],
+			[
+				"p",
+				"Proc"
+			],
+			[
+				"so",
+				"someProc"
+			],
+			[
+				"s",
+				"sleep"
+			],
+			[
+				"say",
+				"sayUpo"
+			],
+			[
+				"sa",
+				"sayUho"
+			],
+			[
+				"P",
+				"Proc"
+			],
+			[
+				"e",
+				"eawi	each_with_index { |e, i| .. }"
+			],
+			[
+				"to",
+				"to_s"
+			],
+			[
+				"fr",
+				"frlist"
+			],
+			[
+				"fe",
+				"friend_id"
+			],
+			[
+				"me",
+				"member_id"
+			],
+			[
+				"f",
+				"friended"
+			],
+			[
+				"mem",
+				"member_id"
+			],
+			[
+				"F",
+				"Friend"
+			],
+			[
+				"pa",
+				"params"
+			],
+			[
+				"find",
+				"find_by_sql"
+			],
+			[
+				"M",
+				"Member"
+			],
+			[
+				"in",
+				"inspect"
+			],
+			[
+				"lam",
+				"lambda"
+			],
+			[
+				"fo",
+				"font-weight"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"c",
+				"color"
+			],
+			[
+				"bo",
+				"bottom"
+			],
+			[
+				"b",
+				"black"
+			],
+			[
+				"po",
+				"post_id"
+			],
+			[
+				"post",
+				"post_comment_path"
+			],
+			[
+				"comm",
+				"comment"
+			],
+			[
+				"Co",
+				"comment"
+			],
+			[
+				"post_",
+				"post_path"
+			],
+			[
+				"cl",
+				"clear"
+			],
+			[
+				"boo",
+				"bottom"
+			],
+			[
+				"r",
+				"right"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"wh",
+				"where"
+			],
+			[
+				"ma",
+				"match"
+			],
+			[
+				"par",
+				"partial"
+			],
+			[
+				"posts",
+				"posts_path"
+			],
+			[
+				"text",
+				"text_field_tag"
+			],
+			[
+				"g",
+				"goriras"
+			],
+			[
+				"ti",
+				"title"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"com",
+				"comment"
+			],
+			[
+				"la",
+				"label"
+			],
+			[
+				"id",
+				"id"
+			],
+			[
+				"en",
+				"enumrator"
+			],
+			[
+				"x",
+				"x"
+			],
+			[
+				"w",
+				"when	when …"
+			],
+			[
+				"na",
+				"name"
+			],
+			[
+				"ta",
+				"tatehiki"
+			],
+			[
+				"mo",
+				"module"
+			],
+			[
+				"be",
+				"bezosu"
+			],
+			[
+				"do",
+				"do"
+			],
+			[
+				"h",
+				"Helloworld"
+			],
+			[
+				"gr",
+				"group"
+			],
+			[
+				"comme",
+				"commenter"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"i",
+				"italic"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"a",
+				"alert"
+			],
+			[
+				"st",
+				"stdout"
+			],
+			[
+				"col",
+				"collect"
+			],
+			[
+				"n",
+				"nstr"
+			],
+			[
+				"num",
+				"num"
+			],
+			[
+				"He",
+				"HelloWorld"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"pass",
+				"password"
+			],
+			[
+				"if",
+				"if	if … end"
+			],
+			[
+				"File",
+				"File	File.read(\"..\")"
+			],
+			[
+				"fa",
+				"favorite_drink"
+			],
+			[
+				"v",
+				"v"
+			],
+			[
+				"lin",
+				"link_to"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/Ruby/Ruby.sublime-build",
+	"command_palette":
+	{
+		"height": 47.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"instll",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"istall",
+				"Package Control: Install Package"
+			],
+			[
+				"i",
+				"Package Control: Install Package"
+			],
+			[
+				"installp",
+				"Package Control: Install Package"
+			],
+			[
+				"pali",
+				"Package Control: List Packages"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"install pa",
+				"Package Control: Install Package"
+			],
+			[
+				"install package",
+				"Package Control: Install Package"
+			],
+			[
+				"p",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Bookmarks: Clear All"
+			],
+			[
+				"minimap",
+				"View: Toggle Minimap"
+			],
+			[
+				"emmet",
+				"Set Syntax: Emmet"
+			],
+			[
+				"Snippet: ruby",
+				"Snippet: #!/usr/bin/env ruby -wKU"
+			],
+			[
+				"ru",
+				"Set Syntax: Ruby"
+			],
+			[
+				"default ",
+				"Preferences: Key Bindings - Default"
+			],
+			[
+				"snippet",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"sideb",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"html",
+				"HTML: Encode Special Characters"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 400.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/fukuitooru/railsproject/Teiji/untitled.sublime-project",
+		"/Users/fukuitooru/railsproject/Teiji/test/controllers/articles_controller_test.rb",
+		"/Users/fukuitooru/railsproject/Teiji/app/views/articles/index.html.erb",
+		"/Users/fukuitooru/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/fukuitooru/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/PortDetect.log",
+		"/Users/fukuitooru/railsproject/Teiji/app/views/responses/index.json.jbuilder",
+		"/Users/fukuitooru/Desktop/Areyou.html",
+		"/Users/fukuitooru/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/fukuitooru/Library/Application Support/Sublime Text 2/Packages/User/fadfadsfaflka",
+		"/Users/fukuitooru/Library/Application Support/Sublime Text 2/Packages/User/Emmet.sublime-settings",
+		"/Users/fukuitooru/Library/Application Support/Sublime Text 2/Packages/User/Package Control.sublime-settings",
+		"/Users/fukuitooru/Desktop/hlglah.html",
+		"/Users/fukuitooru/railsproject/Glad/app/views/posts/_form.html.erb",
+		"/Users/fukuitooru/railsproject/Glad/app/views/posts/edit.html.erb",
+		"/Users/fukuitooru/railsproject/Glad/app/views/posts/index.html.erb",
+		"/Users/fukuitooru/railsproject/Glad/app/views/posts/new.html.erb",
+		"/Users/fukuitooru/railsproject/Glad/app/views/posts/show.html.erb",
+		"/Users/fukuitooru/railsproject/Teiji/app/views/responses/_form.html.erb",
+		"/Users/fukuitooru/railsproject/Teiji/app/models/article.rb",
+		"/Users/fukuitooru/railsproject/Teiji/app/controllers/responses_controller.rb",
+		"/Users/fukuitooru/railsproject/Teiji/app/views/main/index.html.erb",
+		"/Users/fukuitooru/railsproject/Teiji/app/controllers/main_controller.rb",
+		"/Users/fukuitooru/railsproject/Teiji/app/models/response.rb",
+		"/Users/fukuitooru/railsproject/Teiji/config/environments/production.rb",
+		"/Users/fukuitooru/railsproject/Teiji/Gemfile",
+		"/Users/fukuitooru/railsproject/Teiji/Gemfile.lock",
+		"/Users/fukuitooru/railsproject/Teiji/app/controllers/articles_controller.rb",
+		"/Users/fukuitooru/railsproject/Teiji/db/migrate/20130604045247_create_responses.rb",
+		"/Users/fukuitooru/railsproject/Teiji/app/views/articles/show.html.erb",
+		"/Users/fukuitooru/railsproject/Teiji/app/views/articles/new.html.erb",
+		"/Users/fukuitooru/railsproject/Teiji/config/application.rb",
+		"/Users/fukuitooru/railsproject/Teiji/config/routes.rb",
+		"/Users/fukuitooru/railsproject/Teiji/db/migrate/20130604034835_create_articles.rb",
+		"/Users/fukuitooru/Desktop/gorira.rb",
+		"/Users/fukuitooru/railsproject/SNS/app/models/message.rb",
+		"/Users/fukuitooru/railsproject/SNS/app/models/friend.rb",
+		"/Users/fukuitooru/railsproject/SNS/app/models/comment.rb",
+		"/Users/fukuitooru/railsproject/SNS/app/models/member.rb",
+		"/Users/fukuitooru/railsproject/SNS/app/controllers/members_controller.rb",
+		"/Users/fukuitooru/railsproject/SNS/app/controllers/application_controller.rb",
+		"/Users/fukuitooru/Desktop/papa.rb",
+		"/Users/fukuitooru/railsproject/SNS/app/controllers/messages_controller.rb",
+		"/Users/fukuitooru/railsproject/SNS/db/seeds.rb",
+		"/Users/fukuitooru/railsproject/SNS/config/routes.rb",
+		"/Users/fukuitooru/railsproject/SNS/db/migrate/20130528081221_create_members.rb",
+		"/Users/fukuitooru/railsproject/SNS/db/migrate/20130528081639_create_friends.rb",
+		"/Users/fukuitooru/railsproject/SNS/db/migrate/20130528081742_create_messages.rb",
+		"/Users/fukuitooru/railsproject/SNS/db/migrate/20130528081851_create_comments.rb",
+		"/Users/fukuitooru/railsproject/SNS/app/views/members/edit.html.erb",
+		"/Users/fukuitooru/railsproject/SNS/app/views/members/index.html.erb",
+		"/Users/fukuitooru/railsproject/SNS/app/views/members/new.html.erb",
+		"/Users/fukuitooru/railsproject/SNS/app/views/members/show.html.erb",
+		"/Users/fukuitooru/railsproject/SNS/app/views/members/_form.html.erb",
+		"/Users/fukuitooru/railsproject/SNS/config/environments/production.rb",
+		"/Users/fukuitooru/railsproject/SNS/Gemfile",
+		"/Users/fukuitooru/railsproject/joy/Gemfile",
+		"/Users/fukuitooru/railsproject/sns/Gemfile",
+		"/Users/fukuitooru/railsproject/Cocoa/app/views/users/_form.html.erb",
+		"/Users/fukuitooru/railsproject/Cocoa/app/views/users/edit.html.erb",
+		"/Users/fukuitooru/railsproject/Cocoa/app/views/users/show.html.erb",
+		"/Users/fukuitooru/railsproject/Cocoa/app/views/users/new.html.erb",
+		"/Users/fukuitooru/railsproject/Cocoa/app/models/user.rb",
+		"/Users/fukuitooru/railsproject/Cocoa/app/views/users/index.html.erb",
+		"/Users/fukuitooru/railsproject/Cocoa/app/controllers/users_controller.rb",
+		"/Users/fukuitooru/railsproject/Cocoa/app/controllers/application_controller.rb",
+		"/Users/fukuitooru/railsproject/joy/app/views/posts/_form.html.erb",
+		"/Users/fukuitooru/railsproject/joy/app/views/posts/_myfooter.html.erb",
+		"/Users/fukuitooru/railsproject/joy/app/views/posts/_myheader.html.erb",
+		"/Users/fukuitooru/railsproject/joy/app/views/posts/drafts.html.erb",
+		"/Users/fukuitooru/railsproject/joy/app/views/posts/edit.html.erb",
+		"/Users/fukuitooru/railsproject/joy/app/views/posts/find.html.erb",
+		"/Users/fukuitooru/railsproject/joy/app/views/posts/index.html.erb",
+		"/Users/fukuitooru/railsproject/joy/app/views/posts/new.html.erb",
+		"/Users/fukuitooru/railsproject/joy/app/views/posts/show.html.erb",
+		"/Users/fukuitooru/railsproject/joy/app/views/posts/_find.html.erb",
+		"/Users/fukuitooru/railsproject/joy/Rakefile",
+		"/Users/fukuitooru/railsproject/joy/app/controllers/posts_controller.rb",
+		"/Users/fukuitooru/railsproject/joy/app/models/post.rb",
+		"/Users/fukuitooru/railsproject/joy/app/models/comment.rb",
+		"/Users/fukuitooru/railsproject/joy/db/migrate/20130513035452_create_posts.rb",
+		"/Users/fukuitooru/railsproject/joy/db/migrate/20130513072731_create_comments.rb",
+		"/Users/fukuitooru/railsproject/joy/config/routes.rb",
+		"/Users/fukuitooru/railsproject/joy/app/views/layouts/application.html.erb",
+		"/Users/fukuitooru/railsproject/joy/app/assets/stylesheets/application.css",
+		"/Users/fukuitooru/railsproject/joy/app/assets/javascripts/bootstrap.js.coffee",
+		"/Users/fukuitooru/railsproject/joy/script/rails",
+		"/Users/fukuitooru/railsproject/joy/app/assets/javascripts/posts.js.coffee",
+		"/Users/fukuitooru/railsproject/joy/app/assets/stylesheets/posts.css",
+		"/Users/fukuitooru/railsproject/joy/app/views/comments/show.html.erb",
+		"/Users/fukuitooru/railsproject/joy/app/assets/javascripts/application.js",
+		"/Users/fukuitooru/railsproject/joy/app/assets/javascripts/posts.js",
+		"/Users/fukuitooru/railsproject/joy/app/controllers/comments_controller.rb",
+		"/Users/fukuitooru/railsproject/blog/app/views/layouts/application.html.erb",
+		"/Users/fukuitooru/railsproject/Glad/app/controllers/posts_controller.rb",
+		"/Users/fukuitooru/railsproject/Glad/app/controllers/comments_controller.rb",
+		"/Users/fukuitooru/railsproject/Glad/config/routes.rb",
+		"/Users/fukuitooru/railsproject/Glad/app/models/comment.rb",
+		"/Users/fukuitooru/railsproject/Glad/app/assets/javascripts/posts.js",
+		"/Users/fukuitooru/railsproject/Glad/app/assets/javascripts/posts.js.coffee",
+		"/Users/fukuitooru/railsproject/Glad/app/models/post.rb",
+		"/Users/fukuitooru/railsproject/Glad/Gemfile",
+		"/Users/fukuitooru/railsproject/Glad/config/index.html.erb",
+		"/Users/fukuitooru/railsproject/Glad/db/migrate/20130521014507_create_posts.rb",
+		"/Users/fukuitooru/railsproject/Glad/db/migrate/20130521015400_add_attachment_photo_to_products.rb",
+		"/Users/fukuitooru/railsproject/Glad/config/environments/production.rb",
+		"/Users/fukuitooru/railsproject/Glad/config/environments/development.rb",
+		"/Users/fukuitooru/railsproject/Glad/db/migrate/20130521015726_add_attachment_photo_to_posts.rb",
+		"/Users/fukuitooru/railsproject/Glad/config/environments/test.rb",
+		"/Users/fukuitooru/railsproject/Glad/db/seeds.rb",
+		"/Users/fukuitooru/railsproject/Glad/db/migrate/20130521011153_create_posts.rb",
+		"/Users/fukuitooru/railsproject/joy/db/migrate/20130517231240_add_attachment_photo_to_posts.rb",
+		"/Users/fukuitooru/railsproject/joy/db/migrate/20130514111709_addis_draft_toposts.rb",
+		"/Users/fukuitooru/railsproject/joy/app/assets/stylesheets/posts.css.scss",
+		"/Users/fukuitooru/railsproject/joy/app/controllers/_myheader.html.erb",
+		"/Users/fukuitooru/railsproject/joy/config/application.rb",
+		"/Users/fukuitooru/railsproject/joy/config/environments/production.rb",
+		"/Users/fukuitooru/railsproject/joy/config/environment.rb",
+		"/Users/fukuitooru/railsproject/joy/db/migrate/20130517225433_add_attachment_photo_to_products.rb",
+		"/Users/fukuitooru/railsproject/joy/config/environments/development.rb",
+		"/Users/fukuitooru/railsproject/joy/db/seeds.rb",
+		"/Users/fukuitooru/railsproject/joy/test/fixtures/posts.yml",
+		"/Users/fukuitooru/railsproject/joy/test/unit/post_test.rb",
+		"/Users/fukuitooru/railsproject/joy/config/database.yml",
+		"/Users/fukuitooru/railsproject/joy/db/schema.rb",
+		"/Users/fukuitooru/railsproject/joy/db/migrate/20130514111623_addis_draft_toposts.rb",
+		"/Users/fukuitooru/railsproject/joy/db/migrate/20130514105342_addis_draft_toposts.rb",
+		"/Users/fukuitooru/railsproject/joy/db/migrate/20130514102050_addposts_tois_draft.rb"
+	],
+	"find":
+	{
+		"height": 55.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"h",
+			"></",
+			"h",
+			"hel",
+			"body",
+			"o",
+			"alkshtml></alksht",
+			"<!doctype html>\n<html lang=\"ja\">\n<head>\n	<meta charset=\"UTF-8\">\n	<title>Document</title>\n</head>\n<body>\n	\n</body>\n</html>\n\n\n<alkshtml></alkshtml>idsaghaksh\nghdsaghkalds\nldsgkjasd\ngljglkais\ngpoajdsg\no\n",
+			"\">\n",
+			"=\"",
+			"charset=",
+			"title",
+			"　",
+			">\n",
+			"title",
+			"Document",
+			">",
+			"<!",
+			"g",
+			"kumankuma",
+			"href",
+			"});\n",
+			"\n",
+			"hgadkshkdagh",
+			"hgadkshkdagh\n",
+			"k",
+			"kk",
+			"fajslkj",
+			"'\n",
+			"%",
+			"all",
+			"id",
+			"record",
+			"end",
+			"find",
+			" {:",
+			"post_<%=post.id%>",
+			"info",
+			";\";><",
+			" \n",
+			"<",
+			"true",
+			"\" ",
+			",:",
+			",\n",
+			"action",
+			"=>\"",
+			">\n",
+			"†",
+			"content",
+			"fin",
+			"find",
+			"	\n",
+			"\"><-",
+			"∂ƒ©\n",
+			"\n",
+			"F",
+			"	<",
+			">\n",
+			"post",
+			"*",
+			"text",
+			"post",
+			" }",
+			"rand",
+			"private",
+			"イヤッホ〜",
+			"begin",
+			"koara",
+			"C",
+			"index",
+			"posts_path",
+			"h3.",
+			"h1",
+			".\n",
+			"document",
+			"n",
+			"document",
+			"splits",
+			"print",
+			".:.",
+			"value",
+			"i",
+			"test",
+			"lgjalj",
+			"check",
+			"box",
+			"\"",
+			"ruby",
+			"Hello",
+			"H",
+			"HELO",
+			"<",
+			"HELO",
+			"!</",
+			"></",
+			"item",
+			"gdg",
+			"item",
+			"			<",
+			"=\"\"></",
+			"item"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"%",
+			"\n"
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": false,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 55.0
+	},
+	"input":
+	{
+		"height": 55.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 49.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 244.0
+	},
+	"replace":
+	{
+		"height": 104.0
+	},
+	"save_all_on_build": false,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"index.html",
+				"app/views/articles/index.html.erb"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": false
+}
