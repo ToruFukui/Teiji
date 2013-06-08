@@ -2,7 +2,7 @@ Teiji::Application.routes.draw do
   resources :responses
 
   get "main/index"
-  patch "main/show"
+  get "main/show"
   resources :articles
 
   # The priority is based upon order of creation: first created -> highest priority.
